@@ -1,2 +1,0 @@
-# msibHTP
-Praktik pembuatan repository
